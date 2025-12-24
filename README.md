@@ -6,7 +6,7 @@ Join the test on Android devices:
 https://play.google.com/store/apps/details?id=com.liyin.freeman&pli=1
 
 
-##Registration Interface Screenshot: ( 注册界面截图 )
+## Registration Interface Screenshot: ( 注册界面截图 )
 <img src="publish/屏幕截图/01.注册.png" width="400" />
 
 ## Chat Interface Screenshot: ( 聊天界面截图 ) 
