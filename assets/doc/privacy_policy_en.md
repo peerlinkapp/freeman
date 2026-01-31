@@ -115,7 +115,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy or how we handle your personal data, please contact us via:
 
-- **Email**: [freeman197910@gmail.com]
+- **Email**: [liufei@liufei.com]
     
 
 ---
