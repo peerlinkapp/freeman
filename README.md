@@ -3,7 +3,8 @@ Decentralized instant messaging — messages, images, and videos are stored and 
 
 Join the test on Android devices:
 在 Android 设备上参与测试：
-https://play.google.com/store/apps/details?id=com.liyin.freeman&pli=1
+
+https://play.google.com/apps/test/com.liyin.freeman/3
 
 
 ## Registration Interface Screenshot: ( 注册界面截图 )
